@@ -137,8 +137,8 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__repo__ = "https://github.com/MrMKN/PROFESSOR-BOT"
-__version__ = "PROFESSOR-BOT ᴠ4.5.0"
+__repo__ = "https://github.com/mahtoanjali/ANJALI-PROFESSOR-BOT"
+__version__ = "ANJALI-PROFESSOR-BOT ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
 __copyright__ = "Copyright (C) 2023-present mahtoanjali <https://github.com/mahtoanjali>"
 
